@@ -1,0 +1,67 @@
+body{
+    background: bisque;
+    display: block;
+    margin: 10px;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    color: #259b9b;
+    font-weight: bold;
+}
+section{
+    font-family: 'Comfortaa', cursive;
+    color: #281921;
+    font-weight: normal;
+}
+
+span{
+  color: darkgreen;
+  font-weight: bold;
+}
+
+.otro-stilo{
+    color: blueviolet;
+}
+
+.subrayar-stilo{
+  text-decoration: underline;
+    font-size: larger;
+}
+#color{
+  color: blue;
+}
+
+#ganar{
+  font-size: 30px;
+}
+
+table{
+  border: solid;
+  width: 90%;
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  text-align: center;
+}
+
+.personaje{
+  color: #df9107;
+}
+.detalle{
+  color:red;
+}
+p#p{
+  margin-left: 50%;
+  position: relative;
+  color: brown;
+  font-size: x-large;
+  font-weight: BOLD;
+}
+td{
+  border:silver 1px solid
+}
+th{
+  border:solid;
+}
